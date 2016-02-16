@@ -1,7 +1,8 @@
 int strstr(const char *text, const char *pattern)
 {
     const char *p=text;
-
+    if(*text=='\0'&&*pattern=='\0')
+        return 0;
     while(*p!='\0'){
 
         const char *pat=pattern;

@@ -2,6 +2,8 @@
 1455635399 source:c:\code\c\hello\main.cpp
 	<iostream>
 
+1455623144 
+
 1455112643 source:c:\code\c\hello\power.cpp
 
 1455197266 source:c:\code\c\hello\inout.cpp
@@ -20,4 +22,24 @@
 1455633537 source:c:\code\c\hello\strcat.cpp
 
 1455635344 source:c:\code\c\hello\strstr.cpp
+
+1455623928 source:/home/leonid/Documents/stepic/C/Hello/gcd.cpp
+
+1455197268 source:/home/leonid/Documents/stepic/C/Hello/inout.cpp
+	<iostream>
+
+1455623146 source:/home/leonid/Documents/stepic/C/Hello/log.cpp
+	<iostream>
+	<cmath>
+
+1455628024 source:/home/leonid/Documents/stepic/C/Hello/rotate.cpp
+
+1455633538 source:/home/leonid/Documents/stepic/C/Hello/strcat.cpp
+
+1455632598 source:/home/leonid/Documents/stepic/C/Hello/strlen.cpp
+
+1455635494 source:/home/leonid/Documents/stepic/C/Hello/strstr.cpp
+
+1455646552 source:/home/leonid/Documents/stepic/C/Hello/main.cpp
+	<iostream>
 

@@ -8,8 +8,8 @@ int main()
     std::cout<<a[i]<<" ";
   }*/
 
-  char str[]="tabcfdefgdfrsdfsdfsdfsdf";
-  char str2[]="ab";
+  char str[]="";
+  char str2[]="";
   int pos=strstr(str,str2);
   std::cout << pos;
 }
