@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1455133842 source:/home/leonid/Documents/stepic/C/Hello/main.cpp
+
+1455129644 source:/home/leonid/Documents/stepic/C/Hello/sqrt.cpp
+	<iostream>
+	<cmath>
+
+1455129431 source:/home/leonid/Documents/stepic/C/Hello/sum.cpp
+	<iostream>
+

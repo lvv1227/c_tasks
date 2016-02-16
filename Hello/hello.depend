@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1455635399 source:c:\code\c\hello\main.cpp
+	<iostream>
+
+1455112643 source:c:\code\c\hello\power.cpp
+
+1455197266 source:c:\code\c\hello\inout.cpp
+	<iostream>
+
+1455623144 source:c:\code\c\hello\log.cpp
+	<iostream>
+	<cmath>
+
+1455623927 source:c:\code\c\hello\gcd.cpp
+
+1455628023 source:c:\code\c\hello\rotate.cpp
+
+1455632596 source:c:\code\c\hello\strlen.cpp
+
+1455633537 source:c:\code\c\hello\strcat.cpp
+
+1455635344 source:c:\code\c\hello\strstr.cpp
+
